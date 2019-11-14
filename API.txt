@@ -1,0 +1,19 @@
+Access Token untapped: 8049A6BFA4508D04C13F9A3F7681EBB3AA403CD8
+
+
+Bar Finden:
+
+ll = langtitude + longtitude
+https://api.foursquare.com/v2/venues/search?ll=48.150850,11.577850&client_id=W3NTNWINQN5HTRAS2WADYGU1R3REZFY0YCTNXKD3NC2YCMJI&client_secret=JDLHAQ35QAK5WBX512IC1YISVS13HIWFC5JZD2EKZPSBPL1J&v=20191114&categoryId=4bf58dd8d48988d116941735
+
+VenueId von foursquare: 572e4f01498e5172f2aebd8a
+https://api.untappd.com/v4/venue/foursquare_lookup/572e4f01498e5172f2aebd8a?acess_token=8049A6BFA4508D04C13F9A3F7681EBB3AA403CD8&VENUE_ID=572e4f01498e5172f2aebd8a&client_secret=A975C849FCC57D8A36D493B00F5B08714EF78209&client_id=4998D655D6F90D1EA6B8DCFEDECDE30714D9FEB1
+
+Venue id von untapped: 5592717
+https://api.untappd.com/v4/venue/info/5592717?client_secret=A975C849FCC57D8A36D493B00F5B08714EF78209&client_id=4998D655D6F90D1EA6B8DCFEDECDE30714D9FEB1
+
+--> Bar Info mit besuchen wo getrunkenes bier angegeben ist
+
+Bier finden
+
+https://api.untappd.com/v4/search/beer?client_secret=A975C849FCC57D8A36D493B00F5B08714EF78209&client_id=4998D655D6F90D1EA6B8DCFEDECDE30714D9FEB1&q="Augusiner Hell"
